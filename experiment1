@@ -117,7 +117,7 @@ text-decoration:underline;
 .job-duration
 {
 Float:right;
-    }
+    }   
 #heading
 {
 font-weight:bold;
